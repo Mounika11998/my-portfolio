@@ -1,27 +1,26 @@
-# Poojitha Portfolio (React)
+# Mounika Portfolio (React)
 
-Personal portfolio site for **Poojitha Dolai** — showcasing AI/ML & Full-Stack projects, hackathon work, and certifications.
-Built with React, TailwindCSS and Framer Motion.
+Personal portfolio site for **Mounika Vanipenta** — showcasing Full-Stack and web development projects, technical skills, and achievements.  
+Built with React, TailwindCSS, and Framer Motion.
 
 ## Live
-[PORTFOLIO](https://poojitha-portfolio-react-v1.vercel.app/)
-
+[PORTFOLIO](https://my-portfolio-six-khaki-71.vercel.app/)
 
 ## Features
-- Responsive portfolio layout with pastel/dusty-rose theme
-- Projects with tech stack highlights and hackathon badges
-- Separate skills, achievements and certifications sections
-- Smooth animations via Framer Motion
-- Profile image and downloadable resume (public folder)
+- Responsive and modern portfolio layout with a clean, elegant theme  
+- Projects section highlighting key technologies and impact  
+- Dedicated sections for skills, certifications, and achievements  
+- Smooth animations powered by Framer Motion  
+- Profile image and downloadable resume (in the public folder)
 
 ## Tech
 React • TailwindCSS • Framer Motion • Vite
 
-## Local dev
+## Local Development
 ```bash
 # clone
-git clone https://github.com/<your-username>/poojitha-portfolio-react.git
-cd poojitha-portfolio-react
+git clone https://github.com/Mounika11998/my-portfolio.git
+cd my-portfolio
 
 # install
 npm install
